@@ -4,7 +4,7 @@
   "author": "GhostVox",
   "themes": [
     {
-      "name": "One Dark",
+      "name": "Subliminal Zed Dark",
       "appearance": "dark",
       "style": {
         "border": "#21262DFF",
@@ -19,13 +19,13 @@
         "element.background": "#2e343eff",
         "element.hover": "#4D6A80FF",
         "element.active": "#161B22FF",
-        "element.selected": "#454a56ff",
+        "element.selected": "#4D6A80FF",
         "element.disabled": "#2e343eff",
         "drop_target.background": "#83899480",
         "ghost_element.background": "#00000000",
-        "ghost_element.hover": "#4D6A80FF",
-        "ghost_element.active": "#161B22FF",
-        "ghost_element.selected": "#454a56ff",
+        "ghost_element.hover": "#4D6A80B0",
+        "ghost_element.active": "#161B22B0",
+        "ghost_element.selected": "#4D6A80FF",
         "ghost_element.disabled": "#2e343eff",
         "text": "#dce0e5ff",
         "text.muted": "#a9afbcff",
@@ -148,8 +148,8 @@
         "warning.border": "#5d4c2fff",
         "players": [
           {
-            "cursor": "#74ade8ff",
-            "background": "#74ade8ff",
+            "cursor": "#4d6a80aa",
+            "background": "#4d6a80aa",
             "selection": "#74ade83d"
           },
           {
