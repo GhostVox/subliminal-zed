@@ -1,0 +1,7 @@
+id = "subliminal-zed"
+name = "Subliminal Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ghostvox"]
+description = "A port of Subliminal Nvim for zed "
+repository = "https://github.com/Ghostvox/subliminal-zed"
