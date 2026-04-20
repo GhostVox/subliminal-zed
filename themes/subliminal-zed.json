@@ -234,6 +234,21 @@
             "font_style": null,
             "font_weight": null
           },
+          "property.comment.error": {
+            "color": "#FF6B6B",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "keyword.comment.warn": {
+            "color": "#F5906a",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "constant.comment.todo": {
+            "color": "#9FCDCC",
+            "font_style": "italic",
+            "font_weight": null
+          },
           "constant": {
             "color": "#C5BC91FF",
             "font_style": null,
@@ -267,12 +282,12 @@
           "function": {
             "color": "#D6ACACFF",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "function.static": {
             "color": "#C5BC91FF",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "hint": {
             "color": "#30363dFF",
@@ -449,6 +464,23 @@
       "name": "Subliminal Zed Light",
       "appearance": "light",
       "style": {
+        "vim.mode.text": "#fef6fd",
+        "vim.normal.foreground": "#fef6fd",
+        "vim.helix_normal.foreground": "#fef6fd",
+        "vim.visual.foreground": "#dce0e8",
+        "vim.helix_select.foreground": "#fef6fd",
+        "vim.insert.foreground": "#fef6fd",
+        "vim.visual_line.foreground": "#fef6fd",
+        "vim.visual_block.foreground": "#fef6fd",
+        "vim.replace.foreground": "#fef6fd",
+        "vim.normal.background": "#7A3838FF",
+        "vim.helix_normal.background": "#7A3838FF",
+        "vim.visual.background": "#2A6A68FF",
+        "vim.helix_select.background": "#C4622AFF",
+        "vim.insert.background": "#C4622AFF",
+        "vim.visual_line.background": "#2A6A68FF",
+        "vim.visual_block.background": "#8839ef",
+        "vim.replace.background": "#e64553",
         "border": "#D6CEBEFF",
         "border.variant": "#D6CEBEFF",
         "border.focused": "#7A9BBEFF",
@@ -656,6 +688,21 @@
           },
           "comment.doc": {
             "color": "#7A7468FF",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "property.comment.error": {
+            "color": "#FF6B6B",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "keyword.comment.warn": {
+            "color": "#F5906a",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "constant.comment.todo": {
+            "color": "#5A7890FF",
             "font_style": "italic",
             "font_weight": null
           },
