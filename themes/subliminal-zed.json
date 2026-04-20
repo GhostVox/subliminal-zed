@@ -7,13 +7,30 @@
       "name": "Subliminal Zed Dark",
       "appearance": "dark",
       "style": {
+        "vim.mode.text": "#fef6fd",
+        "vim.normal.foreground": "#fef6fd",
+        "vim.helix_normal.foreground": "#fef6fd",
+        "vim.visual.foreground": "#dce0e8",
+        "vim.helix_select.foreground": "#fef6fd",
+        "vim.insert.foreground": "#fef6fd",
+        "vim.visual_line.foreground": "#fef6fd",
+        "vim.visual_block.foreground": "#fef6fd",
+        "vim.replace.foreground": "#fef6fd",
+        "vim.normal.background": "#D6ACAC",
+        "vim.helix_normal.background": "#D6ACAC",
+        "vim.visual.background": "#8FBDC9",
+        "vim.helix_select.background": "#8FBDC9",
+        "vim.insert.background": "#F5906A",
+        "vim.visual_line.background": "#8BAFC7",
+        "vim.visual_block.background": "#8839ef",
+        "vim.replace.background": "#e64553",
         "border": "#21262dFF",
         "border.variant": "#21262dFF",
         "border.focused": "#47679eff",
         "border.selected": "#293b5bff",
         "border.transparent": "#00000000",
         "border.disabled": "#414754ff",
-        "elevated_surface.background": "#0D1117FF",
+        "elevated_surface.background": "#21262dFF",
         "surface.background": "#0D1117FF",
         "background": "#0D1117FF",
         "element.background": "#2e343eff",
@@ -46,7 +63,7 @@
         "tab.active_background": "#4D6A8026",
         "search.match_background": "#74ade866",
         "search.active_match_background": "#e8af7466",
-        "panel.background": "#161b22ff",
+        "panel.background": "#0d1117ff",
         "panel.focused_border": "#47679eff",
         "pane.focused_border": "#47679eff",
         "scrollbar.thumb.background": "#161B2299",
@@ -194,13 +211,13 @@
             "font_style": null,
             "font_weight": null
           },
-          "macro":{
-             "color": "#FF6B6BFF",
+          "macro": {
+            "color": "#FF6B6BFF",
             "font_style": null
           },
-          "mutable":{
+          "mutable": {
             "color": "#F77FBEFF",
-            "font_style": null,
+            "font_style": null
           },
           "boolean": {
             "color": "#B39DFBFF",
@@ -252,7 +269,7 @@
             "font_style": null,
             "font_weight": "bold"
           },
-          "function.static":{
+          "function.static": {
             "color": "#C5BC91FF",
             "font_style": null,
             "font_weight": "bold"
@@ -418,7 +435,7 @@
             "font_weight": null
           }
         },
-        "panel.overlay_background": "#0D1117FF",
+        "panel.overlay_background": "#0d1117FF",
         "panel.overlay_hover": "#0D1117FF",
         "minimap.thumb.background": "#161B22FF",
         "minimap.thumb.hover_background": "#363c46ff",
@@ -428,7 +445,7 @@
         "version_control.ignored": "#878a98ff"
       }
     },
-{
+    {
       "name": "Subliminal Zed Light",
       "appearance": "light",
       "style": {
