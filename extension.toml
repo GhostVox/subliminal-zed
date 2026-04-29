@@ -1,6 +1,6 @@
-id = "subliminal-zed"
-name = "Subliminal Zed"
-version = "0.0.1"
+id = "subliminal"
+name = "Subliminal"
+version = "0.1.0"
 schema_version = 1
 authors = ["Ghostvox"]
 description = "A port of Subliminal Nvim for zed "
