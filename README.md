@@ -9,10 +9,10 @@ Previously published as a [Neovim colorscheme](https://github.com/ghostvox/subli
 ## Screenshots
  
 **Dark**
-![darkmode](https://github.com/user-attachments/assets/b1955073-488b-44b1-bd99-44a80d96603b)
- 
+![darkmode](https://github.com/user-attachments/assets/d3211ff5-e366-4cf7-a872-ad10b35b3601)
+
 **Light**
-![lightmode](https://github.com/user-attachments/assets/d3211ff5-e366-4cf7-a872-ad10b35b3601)
+![lightmode](https://github.com/user-attachments/assets/b1955073-488b-44b1-bd99-44a80d96603b)
  
 ---
  
